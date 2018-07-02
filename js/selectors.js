@@ -8,7 +8,11 @@ function lastImageSelector(){
 }
 
 function ninjaBabySelector(){
+<<<<<<< HEAD
   return $('#baby-ninja');
+=======
+  return $('#baby-ninja')
+>>>>>>> 0cda1b4a156d35e33649bded0c18ab60f55d66c9
 }
 
 function divSelector(){
